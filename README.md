@@ -5,7 +5,7 @@ The Quiz is a nice way to see how much you know, or don't know, about JavaScript
 As people proceed in career as a web developer, they will probably be asked to complete a coding assessment, which is typically a combination of multiple-choice questions and interactive challenges. This app is a good example of such test, it contains 5 questions and 1-minute time limit.
 
 ### Screenshots
-<img src="./myimage.jpg">
+<img src="./Screen Shot 2020-01-26 at 11.00.25 PM.png">
 
 ### Tech/framework used
 Built with Javascript, CSS and HTML.
