@@ -1,6 +1,8 @@
 ## Welcome to Javascript Quiz Website!
 The Quiz is a nice way to see how much you know, or don't know, about JavaScript.
 
+### Check it out! Link: https://anastasia-satysheva.github.io/Javascript-quiz/
+
 ### Features
 As people proceed in career as a web developer, they will probably be asked to complete a coding assessment, which is typically a combination of multiple-choice questions and interactive challenges. This app is a good example of such test, it contains 5 questions and 1-minute time limit.
 
